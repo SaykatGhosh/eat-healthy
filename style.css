@@ -53,8 +53,40 @@ span {
     color: white;
     border: none;
     border-radius: 30px;
-    margin-top: 20px;
+    margin-top: 40px;
     background-image: linear-gradient(#FD5332, #FB8F48);
     padding: 15px 40px;
+
+}
+
+.about-me-text {
+    color: #707070;
+}
+
+.middle-section {
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+}
+
+.middle-half-width {
+    width: 80%;
+    padding: 20px 90px;
+
+
+
+}
+
+.middle-half-width img {
+    padding-left: 15%;
+    width: 50%;
+}
+
+.middle-half-width {
+    width: 80%;
+
+}
+
+.middle-half-width p {
+    color: #18191F;
 
 }
